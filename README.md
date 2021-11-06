@@ -14,7 +14,7 @@ The template will improve modder's life as it provides:
 
 Developpers with write access should work on branches in order to prevent any breakage.
 
-The mod should be released automatically to [ContentDB](https://content.minetest.net/) using webhooks to an organisation account, as soon as the mod provide enough stuff to be intresting. The 1.0 version number should not be given to the mod until all features are succesfully ported.
+The mod should be released automatically to [ContentDB](https://content.minetest.net/) using webhooks to an [organisation account](https://content.minetest.net/users/mineclone2-mods/), as soon as the mod provide enough stuff to be intresting. The 1.0 version number should not be given to the mod until all features are succesfully ported.
 
 All original mod authors should be referenced in each mod's README.
 
