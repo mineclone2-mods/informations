@@ -4,9 +4,12 @@ This project aims to port existing Minecraft mods (forge or fabric) to [MineClon
 
 ## Mod development process
 
-Then someone wants to work on porting a minecraft mod or suggest it, a new issue should be created on [mineclone2-mods/mods-requests](https://github.com/mineclone2-mods/mods-requests/issues), in order to discuss about initial design and to find people interested into working on it.
+Then someone wants to work on porting a minecraft mod or suggest it, a new issue should be created on [mineclone2-mods/mods-requests](https://github.com/mineclone2-mods/mods-requests/issues).
+An organisation member should now check if the request is valid, decide for a priority and add it the the [Management Project](https://github.com/orgs/mineclone2-mods/projects/2).
 
-After discution, some developpers should be assigned to the mod and given complete write access to a brand new repo generated from the [template](https://github.com/mineclone2-mods/template-mod).
+Then commes the discussion part about the design and to find people interested into working on it.
+
+Then a developper wants to be the manager of a mod development, he should assigned to the respective issue and given complete write access to a brand new repo generated from the [template](https://github.com/mineclone2-mods/template-mod).
 
 The template will improve modder's life as it provides:
 - luacheck code checking with GitHub actions
@@ -20,4 +23,4 @@ All original mod authors should be referenced in each mod's README.
 
 Code style should fit [MineClone2 codestyle](https://git.minetest.land/MineClone2/MineClone2/src/branch/master/CONTRIBUTING.md#stick-to-our-guidelines).
 
-All code should be licenced under GPLv3, but multi-licencing is fine if you take some perts of existing Minetest mods. 
+All code should be licenced under GPLv3 or later, but multi-licencing is fine if you take some perts of existing Minetest mods. 
